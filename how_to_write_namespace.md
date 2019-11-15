@@ -1,0 +1,3 @@
+
+
+\namespacename\classname;
